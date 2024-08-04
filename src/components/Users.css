@@ -1,0 +1,25 @@
+.users{
+    margin-left: 30%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.users input
+{
+    width: 30%;
+    display: block;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid skyblue;
+}
+
+.users h1{
+    text-align: left;
+}
+
+.users table, th,td
+{
+    border: 1px solid skyblue;
+    border-collapse: collapse;
+    min-width: 100px;
+}

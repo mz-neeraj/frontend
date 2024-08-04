@@ -6,8 +6,8 @@ function Nav()
     return(
         <div className="navbar">
             <ul>
-                <li><Link> <b>Add User</b></Link></li>
-                <li><Link> <b>Show Users</b></Link></li>
+                <li><Link to="/"> <b>Add User</b></Link></li>
+                <li><Link to="/showUsers"> <b>Show Users</b></Link></li>
             </ul>
         </div>
     );

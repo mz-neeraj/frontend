@@ -1,0 +1,25 @@
+.user{
+    margin-left: 30%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.user input
+{
+    width: 30%;
+    display: block;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid skyblue;
+}
+.user button
+{
+    width: 32%;
+    display: block;
+    padding: 10px;
+    margin-bottom: 15px;
+    padding-left: 7px;
+}
+.user h1{
+    text-align: left;
+}
